@@ -1,0 +1,16 @@
+.form_prop {
+  margin-bottom: 20px;
+}
+
+.input {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.input:last-child {
+  margin-bottom: 0;
+}
+
+.sub_button {
+  margin-top: 20px;
+}
