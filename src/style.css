@@ -1,16 +1,12 @@
-.form_prop {
-  margin-bottom: 20px;
-}
-
-.input {
+.standart-input-label {
   display: block;
   margin-bottom: 10px;
 }
 
-.input:last-child {
-  margin-bottom: 0;
+.standart-fieldset {
+  margin-bottom: 20px;
 }
 
-.sub_button {
-  margin-top: 20px;
+.standart-fieldset .standart-input-label:last-child {
+  margin-bottom: 0;
 }
